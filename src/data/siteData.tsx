@@ -6,7 +6,6 @@ import LayersRoundedIcon from "@mui/icons-material/LayersRounded";
 import RocketLaunchRoundedIcon from "@mui/icons-material/RocketLaunchRounded";
 import VerifiedRoundedIcon from "@mui/icons-material/VerifiedRounded";
 import GridViewRoundedIcon from "@mui/icons-material/GridViewRounded";
-import * as React from "react";
 
 export const valueItems = [
   {

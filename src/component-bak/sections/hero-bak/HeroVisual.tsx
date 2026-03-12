@@ -1,5 +1,4 @@
 // src/components/sections/hero/HeroVisual.tsx
-import React from "react";
 import HeroBrowserMockup from "./HeroBrowserMockup";
 import HeroFloatingCard from "./HeroFloatingCard";
 
